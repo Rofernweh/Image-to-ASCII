@@ -1,2 +1,2 @@
-# Image-to-ASCII
-Image to ASCII Rust program
+# Image to ASCII
+This project contains a Rust program that converts images into ASCII art. It uses the image crate to load and process images, scales them down, and converts each pixel to an ASCII character based on its brightness. The program is designed to work best with simple, high-contrast images. To use the program, build it with cargo build --release and then run the resulting executable, passing the path to an image file as a command-line argument

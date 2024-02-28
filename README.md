@@ -17,7 +17,7 @@ The program follows these steps:
 
 To run this program, you'll need:
 
-- [Rust](https://www.rust-lang.org/tools/install) programming language: Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+- [Rust](https://www.rust-lang.org/tools/install) programming language installed on your machine.
 
   **Installation:**
   You can install Rust by running the following command in your terminal:
